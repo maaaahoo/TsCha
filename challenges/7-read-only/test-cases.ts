@@ -19,3 +19,6 @@ interface Todo1 {
     author: string
   }
 }
+
+
+// readonly 关键字 修饰key值

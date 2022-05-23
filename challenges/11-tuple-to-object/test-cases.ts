@@ -15,3 +15,7 @@ type cases = [
 
 // @ts-expect-error
 type error = TupleToObject<[[1, 2], {}]>
+
+
+// in 遍历对象的key 或者interface 
+// 从interface中取key  T[number] 固定写法

@@ -30,3 +30,7 @@ interface Expected2 {
   title: string
   completed: boolean
 }
+
+
+
+// type 类型可以直接 in 遍历
